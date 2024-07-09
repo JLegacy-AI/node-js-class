@@ -1,0 +1,21 @@
+Complete these Questions and Answer the each question in separate file:
+
+1. Create a program that declares three variables using var, let, and const, and logs their values to the console.
+
+2. Write a program that attempts to reassign a value to a const variable and logs the result.
+
+3. write javascript code to Print this Pattern on Console.
+*
+**
+***
+****
+***
+**
+*
+
+4. Write Javascript Code, initialize three variable in one variable store name and it should be const. Initialize other variable and store your age. And in third Variable store your Father name. 
+Result should be like this:
+
+Jamal Muhammad
+24
+Muhammad Sharif
